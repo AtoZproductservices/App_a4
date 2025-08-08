@@ -1,16 +1,9 @@
-# a4
+# Assignment 4
+<img width="1435" height="860" alt="image" src="https://github.com/user-attachments/assets/5f3db7d7-3e5e-4c28-b870-ec0e8e777888" />
+Creative Use of Packages – Build a Fun App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Objective:
+Explore the power of Flutter packages from pub.dev by building a simple but fun app using at least one third-party package.
+This assignment is meant to encourage experimentation, creativity, and confidence in integrating external Flutter libraries.
+Task: Build a Fun App Using External Packages
+Create a mini-app that uses one or more external packages in a creative way to add interactive or fun features.
